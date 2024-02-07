@@ -1,0 +1,9 @@
+Django==4.2
+djangorestframework==3.14.0
+djangorestframework-jsonapi==6.1.0
+gunicorn==21.2.0
+pytest==8.0.0
+pytest-django==4.8.0
+mysqlclient
+django-mysql
+django-filter
